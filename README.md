@@ -140,7 +140,7 @@ const saurabh = {
 
 ## 📊 Language Analytics
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saurabh16-24&layout=donut-vertical&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C3CE1&text_color=C9D1D9&border_radius=12&langs_count=8" height="280" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saurabh16-24&layout=donut&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C3CE1&text_color=C9D1D9&border_radius=12&langs_count=8" height="280" />
 
 </div>
 
@@ -168,7 +168,7 @@ const saurabh = {
 
 ## 🏆 Trophies
 
-<img src="https://github-profile-trophy.vercel.app/?username=saurabh16-24&theme=discord&no-frame=true&no-bg=true&column=7&margin-w=10&margin-h=10" width="95%" />
+<img src="https://github-profile-trophy.vercel.app/?username=saurabh16-24&theme=algolia&no-frame=true&column=7&margin-w=10&margin-h=10" width="95%" />
 
 </div>
 
@@ -202,26 +202,6 @@ const saurabh = {
 </table>
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=saurabh16-24&theme=tokyonight" width="95%" />
-
-</div>
-
-<br/>
-
-<!-- ╔═══════════════════════════════════════════════════════════════════════════╗ -->
-<!-- ║                        MODULE: SNAKE ANIMATION                          ║ -->
-<!-- ╚═══════════════════════════════════════════════════════════════════════════╝ -->
-
-<div align="center">
-
-## 🐍 Contribution Snake
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/saurabh16-24/saurabh16-24/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/saurabh16-24/saurabh16-24/output/github-snake.svg" />
-  <img alt="Snake animation" src="https://raw.githubusercontent.com/saurabh16-24/saurabh16-24/output/github-snake-dark.svg" width="95%" />
-</picture>
-
-> 💡 *Powered by the [snk GitHub Action](https://github.com/Platane/snk) — auto-generated every 12 hours*
 
 </div>
 
