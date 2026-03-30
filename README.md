@@ -140,7 +140,11 @@ const saurabh = {
 
 ## 📊 Language Analytics
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saurabh16-24&layout=donut&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C3CE1&text_color=C9D1D9&border_radius=12&langs_count=8" height="280" />
+<p>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=saurabh16-24&theme=tokyonight" height="200" />
+  &nbsp;&nbsp;
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=saurabh16-24&theme=tokyonight" height="200" />
+</p>
 
 </div>
 
