@@ -162,21 +162,7 @@ const saurabh = {
 
 </div>
 
-<br/>
 
-<!-- ╔═══════════════════════════════════════════════════════════════════════════╗ -->
-<!-- ║                        MODULE: TROPHIES                                 ║ -->
-<!-- ╚═══════════════════════════════════════════════════════════════════════════╝ -->
-
-<div align="center">
-
-## 🏆 Trophies
-
-<img src="https://github-profile-trophy.vercel.app/?username=saurabh16-24&theme=algolia&no-frame=true&column=7&margin-w=10&margin-h=10" width="95%" />
-
-</div>
-
-<br/>
 
 <!-- ╔═══════════════════════════════════════════════════════════════════════════╗ -->
 <!-- ║                        MODULE: DETAILED METRICS                         ║ -->
