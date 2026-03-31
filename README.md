@@ -101,7 +101,7 @@
 <br/>
 
 <div align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=saurabh16-24&theme=tokyonight&hide_border=true&background=0D1117&stroke=00C9FF&ring=6C3CE1&fire=FF0080&currStreakLabel=00C9FF&sideLabels=C9D1D9&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=555555&border_radius=10" width="100%" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=saurabh16-24&theme=tokyonight&hide_border=true&background=0D1117&stroke=00C9FF&ring=6C3CE1&fire=FF0080&currStreakLabel=00C9FF&sideLabels=C9D1D9&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=555555&border_radius=10&t=latest" width="100%" />
 </div>
 
 </td>
@@ -187,23 +187,23 @@
 <table>
 <tr>
 <td width="50%">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=saurabh16-24&theme=tokyonight" width="100%" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=saurabh16-24&theme=tokyonight&t=latest" width="100%" />
 </td>
 <td width="50%">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=saurabh16-24&theme=tokyonight&utcOffset=5.5" width="100%" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=saurabh16-24&theme=tokyonight&utcOffset=5.5&t=latest" width="100%" />
 </td>
 </tr>
 <tr>
 <td width="50%">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=saurabh16-24&theme=tokyonight" width="100%" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=saurabh16-24&theme=tokyonight&t=latest" width="100%" />
 </td>
 <td width="50%">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=saurabh16-24&theme=tokyonight" width="100%" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=saurabh16-24&theme=tokyonight&t=latest" width="100%" />
 </td>
 </tr>
 </table>
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=saurabh16-24&theme=tokyonight" width="95%" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=saurabh16-24&theme=tokyonight&t=latest" width="95%" />
 
 </div>
 
@@ -216,7 +216,7 @@
 
 ## 📈 `> git log --graph --all`
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=saurabh16-24&bg_color=0D1117&color=00C9FF&line=6C3CE1&point=FF0080&area=true&area_color=6C3CE1&hide_border=true&custom_title=Commit%20Activity&radius=10" width="95%" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=saurabh16-24&bg_color=0D1117&color=00C9FF&line=6C3CE1&point=FF0080&area=true&area_color=6C3CE1&hide_border=true&custom_title=Commit%20Activity&radius=10&t=latest" width="95%" />
 
 </div>
 
