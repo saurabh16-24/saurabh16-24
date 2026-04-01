@@ -218,6 +218,15 @@
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=saurabh16-24&bg_color=0D1117&color=00C9FF&line=6C3CE1&point=FF0080&area=true&area_color=6C3CE1&hide_border=true&custom_title=Commit%20Activity&radius=10&t=latest" width="95%" />
 
+<br/>
+<br/>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/saurabh16-24/saurabh16-24/output/github-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/saurabh16-24/saurabh16-24/output/github-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/saurabh16-24/saurabh16-24/output/github-snake.svg">
+</picture>
+
 </div>
 
 <br/>
